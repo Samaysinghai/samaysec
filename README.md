@@ -1,1 +1,4 @@
 # samaysec
+class
+{
+}
